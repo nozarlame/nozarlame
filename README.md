@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @nozarlame
+- 👀 I’m interested in recommendation systems...
+- 🌱 I’m currently learning pythom and programming on movie recommendation systems...
+- 💞️ I’m looking to collaborate on recommendation systems especially on move RS...
+- 📫 How to reach me by email:nozar_lame@yahoo.com or whatsapp: nozar...
+
+<!---
+nozarlame/nozarlame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Very soon I will share my Movie RS experience in this site.
+
+See you soon!
